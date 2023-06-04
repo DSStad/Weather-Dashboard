@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  background-image: linear-gradient(to right, lightblue, darkblue);
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#search-bar {
+  text-align: center;
+  margin-left: -7%;
+}
+
+.btn-primary {
+  width: 90%;
+  margin-top: 10px;
+}
+
+.input {
+  width: 90%;
+}
+
+#current {
+  margin-top: 2px;
+  border: 3px solid black;
+  padding: 6px;
+}
+
+li {
+  list-style: none;
+}
+
+.cards-container ul {
+  background-color: blue;
+  color: white;
+}
+
+.prev {
+  background-color: gray;
+  margin-top: 0;
+}
