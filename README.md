@@ -13,7 +13,7 @@ N/A
 ![alt screenshot of weather dashboard with denver weather loaded](./assets/images/dashboard_screenshot.jpg)
 
 Deployed URL:
-
+https://dsstad.github.io/Weather-Dashboard/
 
 ## Credits
 
